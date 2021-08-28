@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background: #f0f2f5; 
+}
+.main{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-left: 257px;
+    margin-right: 257px;
+    height: 550px;
+    display: flex;
+    
+}
+.intro{
+    margin-left: -15px;
+    margin-top: 4px;
+}
+.intro img{ 
+    height: 300px;
+    width: 300px;
+}
+.intro p{
+    margin-top: -105px;
+    margin-left: 28px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+.formroot{
+    padding-left: 80px;
+    padding-right: 150px;
+    width: 50%;
+}
+.form{
+    margin-top: 50px;
+    background-color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 6px;
+}
+input{
+    border-radius: 6px;
+    width: 80%;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 2px;
+    border: #ECEDEF solid;
+}
+input:focus{
+    outline: none;
+    border: #89B9F7 solid;
+}
+#log{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: 550;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 93%;
+    color: #fff;
+    cursor:pointer;
+}
+
+.form a{
+    text-decoration: none;
+    font-family: inherit;
+    color: #1877f2;
+    font-size: 16px;
+    font-weight: 500;
+}
+.form a:hover{
+    text-decoration: underline;
+}
+.form p{
+    margin-top: 5px;
+    margin-bottom: 16px;
+}
+
+hr{
+    border:1px solid #dadde1;
+    width: 91%;
+    margin-left: 18px;
+}
+
+#new{
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    margin-top: 24px;
+    margin-bottom: 23px;
+    background-color: #42b72a;
+    color: #fff;
+    cursor:pointer;
+}
+.page{
+    margin-top: 28px;
+    margin-left: 40px;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+.page a{
+    font-weight: 700;
+    text-decoration: none;
+    color: inherit;
+    font-family: inherit;
+    
+}
+
